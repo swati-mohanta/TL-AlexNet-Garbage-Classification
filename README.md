@@ -122,5 +122,3 @@ During training, sample images from the dataset are displayed with their corresp
 * Experiment with **data augmentation** to reduce overfitting
 * Try **other CNN architectures** (ResNet, VGG16, MobileNet)
 * Use **Grad-CAM** for visualizing model focus areas
-
-Would you like me to include a small section at the end showing **how to run the script (commands and expected output)** for your README? It’ll make your repo more beginner-friendly.
