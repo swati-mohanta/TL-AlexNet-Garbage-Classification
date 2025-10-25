@@ -6,7 +6,7 @@ This project demonstrates the application of **Transfer Learning (TL)** using **
 
 ## Dataset
 
-The dataset used in this project is the **[Garbage Classification Dataset](https://www.kaggle.com/datasets/alincijov/self-driving-cars)**.
+The dataset used in this project is the **[Garbage Classification Dataset](https://www.kaggle.com/datasets/arfathbaigs/garbageclassification-final/data)**.
 It contains labeled images categorized into **recyclable** and **trash** classes.
 
 * **Classes:**
